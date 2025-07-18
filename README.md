@@ -4,11 +4,11 @@
 
 BioLovesData is an integrated bioinformatics analysis tool using Tkinter GUI. It provides various gene and protein sequence analysis functions.
 
-![screenshot1]{https://github.com/user-attachments/assets/44dd3a2b-535e-4f39-8414-c5fb1984c329}
+![screenshot1](https://github.com/user-attachments/assets/44dd3a2b-535e-4f39-8414-c5fb1984c329)
 
-![screenshot2]{https://github.com/user-attachments/assets/a796f0d0-ec63-44ec-bcc2-1b0109bb22c9}
+![screenshot2](https://github.com/user-attachments/assets/a796f0d0-ec63-44ec-bcc2-1b0109bb22c9)
 
-![screenshot3]{https://github.com/user-attachments/assets/554c42c7-a644-45a5-baa0-de517320b55e}
+![screenshot3](https://github.com/user-attachments/assets/554c42c7-a644-45a5-baa0-de517320b55e)
 
 ## Main Features
 
